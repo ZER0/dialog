@@ -1,0 +1,18 @@
+{
+  "name": "dialog",
+  "version": "0.0.1",
+  "description": "Open a dialog window with HTML Document",
+  "keywords": [ "dialog", "window" ],
+  "author": "Matteo Ferretti <zer0@mozilla.com>",
+  "homepage": "https://github.com/ZER0/dialog",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZER0/dialog.git",
+    "web": "https://github.com/ZER0/dialog"
+  },
+  "bugs": {
+    "url": "http://github.com/ZER0/dialog/issues/"
+  },
+  "license": "MPL 2.0",
+  "fullName": "dialog"
+}
